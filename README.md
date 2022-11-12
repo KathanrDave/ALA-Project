@@ -1,6 +1,6 @@
 # ALA-Project
-MAT248 Applied Linear Algebra
-Applications of Linear Algebra in Linear Programming
+### MAT248 Applied Linear Algebra
+### Applications of Linear Algebra in Linear Programming
 
 Group-1 
 # Group members:
